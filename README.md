@@ -1,5 +1,4 @@
 **I am Hongquan Su, a PhD candidate at ICRAR-Curtin.**
-<img src="https://github.com/HongquanSu/hongquansu.github.io/blob/master/HongquanSu_icrar.jpg?raw=true" width="42.7">
 
 ## Project topic
 
