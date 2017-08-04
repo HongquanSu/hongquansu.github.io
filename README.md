@@ -21,5 +21,5 @@ Links:
 ![Image](https://github.com/HongquanSu/hongquansu.github.io/blob/master/GP_img_three.png?raw=true)
 *A portion of the Galactic plane at 88 MHz from the GLEAM survey. The white polygons and yellow circles show the HII regions with detected and undetected absorption features, respectively.*
 
-See all of my referred paper at   [ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=AllRef&libid=5837ecede4)   or    [Google Scholar] (https://scholar.google.com.au/citations?user=95HueOUAAAAJ&hl=en)
+See all of my referred paper at   [ADS](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?library&libname=AllRef&libid=5837ecede4)   or    [Google Scholar](https://scholar.google.com.au/citations?user=95HueOUAAAAJ&hl=en)
 
