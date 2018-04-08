@@ -1,4 +1,4 @@
-**I am Hongquan Su, a PhD candidate at ICRAR-Curtin.**
+**I am Hongquan Su (Chinese name: 苏洪全), a PhD candidate at ICRAR-Curtin.**
 
 ## Project topic
 
