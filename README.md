@@ -2,7 +2,7 @@
 
 ## Project topic
 
-Mapping the Galaxy in 3D using observations of HII region absorption with the MWA
+Mapping the Galaxy in 3-D using observations of HII region absorption with the MWA
 
 ## Project details
 
@@ -11,7 +11,7 @@ Synchrotron emission pervades the Galactic plane at low radio frequencies, origi
 ## Project progress
 
 The initial measurements have been reported:
-Galactic synchrotron emissivity measurements between 250◦ < l < 355◦ from the GLEAM survey with the MWA
+Galactic synchrotron emissivity measurements between 250° < l < 355° from the GLEAM survey with the MWA
 
 Links:
 [ADS](http://adsabs.harvard.edu/abs/2017MNRAS.465.3163S)
