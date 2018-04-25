@@ -4,9 +4,6 @@ title: "Publications"
 tagline: 
 ---
 
-{:.center}
-![irIM]({{ site.baseurl }}/img/G332.7393-0.6211_mulPlot.png)
-
 # Peer-reviewed journal papers
 ### First Authored Papers
 
