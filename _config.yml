@@ -1,2 +1,31 @@
-title: Hongquan Su 
-description: Feel free to bookmark this to keep an eye on my project updates.
+# Setup                                                                                                                         
+title:        Hongquan Su
+tagline:      PhD candidate at ICRAR-Curtin
+baseurl:      ""
+paginate:     1
+
+# secondary settings
+header-img:
+hmsc-title: 
+
+
+# About/contact
+author:
+  name:       Hongquan Su
+  url:        
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+#Others
+markdown: kramdown
+kramdown:
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  enable_coderay: true
+  syntax_highlighter: rouge
