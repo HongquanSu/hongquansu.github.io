@@ -4,7 +4,36 @@ title: "Useful tools for Astronomy"
 tagline: 
 ---
 
-### Git
+## Git
+
+### Basic 
+
+Clone a git repo :
+```
+git clone [repo_url]
+```
+
+Add a file to the repo :
+```
+git add [file_name]
+```
+
+Save changes locally :
+```
+git commit
+```
+
+Caching your GitHub password in Git :
+```
+git config --global credential.helper cache
+```
+
+Save the committed changes to the remote :
+```
+git push
+```
+
+### Branch
 
 See all branches :
 ```
