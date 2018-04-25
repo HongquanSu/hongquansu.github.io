@@ -1,2 +1,27 @@
-title: Welcome to the Hongquan’s homepage! 
-description: Feel free to bookmark this to keep an eye on my project updates.
+# Setup
+title:        Homepage of Hongquan Su (苏洪全)
+tagline:      PhD candidate at ICRAR-Curtin (International Centre for Radio Astronomy Research, Curtin University, Australia)
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Hongquan Su
+  url:         
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+#Others
+markdown: kramdown
+kramdown:
+  input: GFM
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+  enable_coderay: true
+  syntax_highlighter: rouge  
