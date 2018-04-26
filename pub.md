@@ -39,5 +39,6 @@ Region Complex at G35.6-0.5. ApJ, 775:95.
 
 ### Master thesis
 
-[Distance Measurement of Galactic Supernova Remnants by Neutral Hydrogen Absorption Spectrum Observations](doc/these_master.pdf)
+[Distance Measurement of Galactic Supernova Remnants by Neutral Hydrogen Absorption Spectrum Observations](/doc/these_master.pdf)
+
 (Chinese version only with English title and abstract)
