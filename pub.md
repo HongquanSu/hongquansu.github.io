@@ -35,3 +35,9 @@ Region Complex at G35.6-0.5. ApJ, 775:95.
 [2]. Tian, W.-W., ***Su, H.***, and Xiang, F. Y. (2013). The Galactic NH - AV Relation and its Application to Historical Galactic SNRs. ArXiv e-prints.
 
 [1]. ***Su, H.***, Li, Q.-K., Zhu, H., and Tian, W.-W. (2013). 78 Pairs of Possible PSR-SNR Associations. ArXiv e-prints.
+
+
+### Master thesis
+
+[Distance Measurement of Galactic Supernova Remnants by Neutral Hydrogen Absorption Spectrum Observations](doc/these_master.pdf)
+(Chinese version only with English title and abstract)
