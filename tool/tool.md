@@ -5,7 +5,7 @@ tagline: "Tips"
 ---
 
 <p align="center">
-  <a>Tips and tools for Astronomy</a><br>
+  Tips and tools for Astronomy <br><br>
   <a href="git.html">Git</a>
 </p>
 
