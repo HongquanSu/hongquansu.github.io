@@ -4,4 +4,9 @@ title: "Useful tools for Astronomy"
 tagline: "Tips"
 ---
 
-[Git](git.html)
+# Tips and tools for Astronomy
+
+<p align="center">
+  [Git](git.html)
+</p>
+
