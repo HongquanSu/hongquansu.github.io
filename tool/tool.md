@@ -1,7 +1,7 @@
 ---                                                                                                                                                                         
 layout: default
 title: "Useful tools for Astronomy"
-tagline: 
+tagline: "Tips"
 ---
 
 [Git](git.html)
