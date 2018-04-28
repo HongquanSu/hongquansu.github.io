@@ -37,7 +37,7 @@ Region Complex at G35.6-0.5. ApJ, 775:95.
 [1]. ***Su, H.***, Li, Q.-K., Zhu, H., and Tian, W.-W. (2013). 78 Pairs of Possible PSR-SNR Associations. ArXiv e-prints.
 
 
-### Master thesis
+# Master thesis
 
 [Distance Measurement of Galactic Supernova Remnants by Neutral Hydrogen Absorption Spectrum Observations]({{ site.baseurl }}/doc/thesis_master.pdf)
 
