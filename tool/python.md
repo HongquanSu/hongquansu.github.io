@@ -1,6 +1,6 @@
 ---                                                                                                                                                                                                                                                             
 layout: default
-title: "Hongquan's Python Notes"
+title: "My Python Notes"
 tagline: "python"
 ---
 
