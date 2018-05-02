@@ -7,6 +7,12 @@ tagline:
 ## Bash
 
 ### Basic
+Save the output of a command to a variable :
+```
+a=$(echo xyz); echo $a
+
+>>> xyz
+```
 
 Write the output to a file :
 - overwrite the file
