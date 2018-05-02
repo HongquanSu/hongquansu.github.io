@@ -2,10 +2,10 @@ repo_owner: HongquanSu
 repo_name: hongquansu.github.io
 disabled: false
 use_show_action: false
-label_name: Post Comments
+label_name: Blog post comments
 label_color: 666666
 github_application:
   client_id: fdb1d863765cd4949246
-  code_authenticator: https://dashboard.heroku.com/apps/githubcomments
+  code_authenticator: https://githubcomments.herokuapp.com/authenticate/
   callback_url: https://hongquansu.github.io/public/html/gpgc_redirect.html
 enable_diagnostics: true
