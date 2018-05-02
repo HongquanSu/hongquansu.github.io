@@ -8,6 +8,35 @@ tagline:
 
 ### Basic
 
+Write the output to a file :
+- overwrite the file
+```
+echo 'writing test' > file_name.txt
+```
+- append to the file
+```
+echo 'writing test' >> file_name.txt
+```
+
+Get the last several characters of a string :
+```
+a=my.fits; echo "${a: -5}"
+```
+- Output is
+```
+.fits
+```
+
+Get the characters of a string before several charactors :
+```
+a=my.fits; echo "${a: :-5}".sdf
+```
+- Output is
+```
+my.sdf
+```
+- works on Ubuntu not on Mac
+
 For loop :
 ```
 for i in *; do echo $i; done
@@ -30,12 +59,30 @@ Generate a random number between 0 and N (not include), where N is an integer :
 echo $(( RANDOM % N )) 
 ```
 
-### Unzip or untar
+Extract substring :
+```
+b=${a:2:3}
+```
+- 2 is the zero-based offset and 3 is the length
 
-Untar a .tar file :
+
+
+### Unpack (unzip, untar) files
+
+Unpack a .tar file :
 ```
 tar -xvf filename.tar
 Note: .tar is the extension for the source files downloaded from the arXiv.org 
+```
+
+Unpack a .tar.gz file :
+```
+tar -zxvf file.tar.gz
+```
+
+Unpack a .gz file:
+```
+gunzip file.gz
 ```
 
 ### Errors
