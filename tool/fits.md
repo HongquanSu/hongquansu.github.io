@@ -1,5 +1,5 @@
 ---                                                                                                                                                                                                                                                             
-layout: default
+layout: post
 title: "Useful tools for Astronomy"
 tagline: "python" "fits"
 ---
