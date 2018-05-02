@@ -7,5 +7,5 @@ label_color: 666666
 github_application:
   client_id: __fdb1d863765cd4949246__
   code_authenticator: __https://dashboard.heroku.com/apps/githubcomments__
-  callback_url: http://__your_host__/public/html/gpgc_redirect/index.html
+  callback_url: https://hongquansu.github.io/public/html/gpgc_redirect.html
 enable_diagnostics: false
