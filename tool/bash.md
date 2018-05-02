@@ -88,8 +88,8 @@ gunzip file.gz
 ### Errors
 
 syntax error: unexpected end of file
+- might be caused by incomplete loops, e.g. if 'done' is missed in the following :
 ```
-might be caused by incomplete loops, e.g. if 'done' is missed in the following :
 while :
 do
     echo 'check me'
