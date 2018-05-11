@@ -3,6 +3,16 @@ layout: default
 title: "My Python Notes"
 tagline: "python"
 ---
+Remove nan from a numpy array :
+```
+a = a[~numpy.isnan(a)]
+```
+
+Replace nan in a list with a number:
+```
+import math
+list_name = [999 if math.isnan(x) else x for x in list_name]
+```
 
 Python remove whitespace in a string :
 
