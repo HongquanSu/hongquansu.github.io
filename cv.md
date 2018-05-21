@@ -94,7 +94,9 @@ Master thesis
 
 [Distance Measurement of Galactic Supernova Remnants by Neutral Hydrogen Absorption Spectrum Observations](https://hongquansu.github.io/doc/thesis_master.pdf)
 
-----
+
+Contact
+----------
 
 E: hongquan.su@postgrad.curtin.edu.au
 
@@ -103,3 +105,5 @@ P: +61 8 9266 1289
 W: hongquansu.github.io
 
 A: 1 Turner Av, Perth, 6102 Australia
+
+{% include gpgc_comments.html post_title=cv.html %}
