@@ -96,5 +96,10 @@ Master thesis
 
 ----
 
-> <hongquan.su@postgrad.curtin.edu.au> • +61 8 9266 1289 \
-> address - 1 Turner Av, Perth, 6102 Australia
+E: hongquan.su@postgrad.curtin.edu.au
+
+P: +61 8 9266 1289
+
+W: hongquansu.github.io
+
+A: 1 Turner Av, Perth, 6102 Australia
