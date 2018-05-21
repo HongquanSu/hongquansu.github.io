@@ -47,4 +47,4 @@ sentence = ' hello  apple'
 'hello apple'
 ```
 
-{% include gpgc_comments.html post_title=python.md %}
+{% include gpgc_comments.html post_title=python.html %}
