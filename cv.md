@@ -106,4 +106,4 @@ W: hongquansu.github.io
 
 A: 1 Turner Av, Perth, 6102 Australia
 
-{% include gpgc_comments.html post_title=cv.html %}
+{% include gpgc_comments.html post_title=page.title %}
