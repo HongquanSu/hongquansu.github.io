@@ -1,5 +1,5 @@
 repo_owner: HongquanSu
-repo_name: https://hongquansu.github.io
+repo_name: hongquansu.github.io
 disabled: false
 use_show_action: false
 label_name: Blog post comments
@@ -8,4 +8,4 @@ github_application:
   client_id: fdb1d863765cd4949246
   code_authenticator: https://githubcomments.herokuapp.com/authenticate/
   callback_url: https://hongquansu.github.io/public/html/gpgc_redirect.html
-enable_diagnostics: true
+enable_diagnostics: false
