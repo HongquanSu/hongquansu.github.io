@@ -1,19 +1,16 @@
 ---                                                                                                                             
 layout: default
 title: "Contact me"
-tagline: 
+tagline: contact
 ---
 
 Email : hongquansu.astro@gmail.com
 
 or through :
 
-Academia :
-https://curtinedu.academia.edu/HSu
+[Academia](https://curtinedu.academia.edu/HSu)
 
-LinkedIn :
-www.linkedin.com/in/hongquansu
+[LinkedIn](www.linkedin.com/in/hongquansu)
 
-ResearchGate :
-https://www.researchgate.net/profile/Hongquan_Su2
+[ResearchGate](https://www.researchgate.net/profile/Hongquan_Su2)
 
