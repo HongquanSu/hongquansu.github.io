@@ -10,7 +10,6 @@ or through :
 
 [Academia](https://curtinedu.academia.edu/HSu)
 
-[LinkedIn](www.linkedin.com/in/hongquansu)
-
 [ResearchGate](https://www.researchgate.net/profile/Hongquan_Su2)
 
+[LinkedIn](https://www.linkedin.com/in/hongquansu/)
