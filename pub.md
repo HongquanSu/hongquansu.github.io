@@ -6,13 +6,13 @@ tagline:
 
 # Peer-reviewed journal papers
 ### First Authored Papers
-[4]. ***H. Su***, J. P. Macquart, N. Hurley-Walker, N. M. McClure-Griffiths, C. A. Jackson, S. J. Tingay, W. W. Tian, B. M. Gaensler, B. McKinley, A. D. Kapińska, L. Hindson, P. Hancock, R. B. Wayth, L. Staveley-Smith, J. Mor- gan, M. Johnston-Hollitt, E. Lenc, M. E. Bell, J. R. Callingham, K. S. Dwarkanath, B.-Q. For, A. R. Offringa, P. Procopio, C. Wu, and Q. Zheng. Galactic synchrotron distribution derived from 152 HII region absorption features in the full GLEAM survey. MNRAS, June 2018.
+[4]. ***H. Su***, J. P. Macquart, N. Hurley-Walker, N. M. McClure-Griffiths, C. A. Jackson, S. J. Tingay, W. W. Tian, B. M. Gaensler, B. McKinley, A. D. Kapińska, L. Hindson, P. Hancock, R. B. Wayth, L. Staveley-Smith, J. Mor- gan, M. Johnston-Hollitt, E. Lenc, M. E. Bell, J. R. Callingham, K. S. Dwarkanath, B.-Q. For, A. R. Offringa, P. Procopio, C. Wu, and Q. Zheng. Galactic synchrotron distribution derived from 152 HII region absorption features in the full GLEAM survey. ***MNRAS***, June 2018.
 
-[3]. ***H. Su***, N. Hurley-Walker, C. A. Jackson, N. M. McClure-Griffiths, S. J. Tingay, L. Hindson, P. Hancock, R. B. Wayth, B. M. Gaensler, L. Staveley- Smith, J. Morgan, M. Johnston-Hollitt, E. Lenc, M. E. Bell, J. R. Calling- ham, K. S. Dwarkanath, B.-Q. For, A. D. Kapińska, B. McKinley, A. R. Offringa, P. Procopio, C. Wu, and Q. Zheng. Erratum: Galactic synchrotron emissivity measurements between 250 < l < 355 degrees from the GLEAM survey with the MWA. MNRAS, 472:828–834, Nov. 2017.
+[3]. ***H. Su***, N. Hurley-Walker, C. A. Jackson, N. M. McClure-Griffiths, S. J. Tingay, L. Hindson, P. Hancock, R. B. Wayth, B. M. Gaensler, L. Staveley- Smith, J. Morgan, M. Johnston-Hollitt, E. Lenc, M. E. Bell, J. R. Calling- ham, K. S. Dwarkanath, B.-Q. For, A. D. Kapińska, B. McKinley, A. R. Offringa, P. Procopio, C. Wu, and Q. Zheng. Erratum: Galactic synchrotron emissivity measurements between 250 < l < 355 degrees from the GLEAM survey with the MWA. ***MNRAS***, 472:828–834, Nov. 2017.
 
-[2]. ***H.-Q. Su***, M.-F. Zhang, H. Zhu, and D. Wu. The revised distance of supernova remnant G15.4+0.1. Research in Astronomy and Astrophysics, 17:109, Sept. 2017.
+[2]. ***H.-Q. Su***, M.-F. Zhang, H. Zhu, and D. Wu. The revised distance of supernova remnant G15.4+0.1. ***Research in Astronomy and Astrophysics***, 17:109, Sept. 2017.
 
-[1]. ***H. Su***, N. Hurley-Walker, C. A. Jackson, N. M. McClure-Griffiths, S. J. Tingay, L. Hindson, P. Hancock, R. B. Wayth, B. M. Gaensler, L. Staveley- Smith, J. Morgan, M. Johnston-Hollitt, E. Lenc, M. E. Bell, J. R. Calling- ham, K. S. Dwarkanath, B.-Q. For, A. D. Kapińska, B. McKinley, A. R. Offringa, P. Procopio, C. Wu, and Q. Zheng. Galactic synchrotron emis- sivity measurements between 250 < l < 355 degrees from the GLEAM survey with the MWA. MNRAS, 465:3163–3174, Mar. 2017.
+[1]. ***H. Su***, N. Hurley-Walker, C. A. Jackson, N. M. McClure-Griffiths, S. J. Tingay, L. Hindson, P. Hancock, R. B. Wayth, B. M. Gaensler, L. Staveley- Smith, J. Morgan, M. Johnston-Hollitt, E. Lenc, M. E. Bell, J. R. Calling- ham, K. S. Dwarkanath, B.-Q. For, A. D. Kapińska, B. McKinley, A. R. Offringa, P. Procopio, C. Wu, and Q. Zheng. Galactic synchrotron emis- sivity measurements between 250 < l < 355 degrees from the GLEAM survey with the MWA. ***MNRAS***, 465:3163–3174, Mar. 2017.
 
 ### Co-authored Papers
 
