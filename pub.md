@@ -6,21 +6,21 @@ tagline:
 
 # Peer-reviewed journal papers
 ### First Authored Papers
+[4]. ***H. Su***, J. P. Macquart, N. Hurley-Walker, N. M. McClure-Griffiths, C. A. Jackson, S. J. Tingay, W. W. Tian, B. M. Gaensler, B. McKinley, A. D. Kapińska, L. Hindson, P. Hancock, R. B. Wayth, L. Staveley-Smith, J. Mor- gan, M. Johnston-Hollitt, E. Lenc, M. E. Bell, J. R. Callingham, K. S. Dwarkanath, B.-Q. For, A. R. Offringa, P. Procopio, C. Wu, and Q. Zheng. Galactic synchrotron distribution derived from 152 HII region absorption features in the full GLEAM survey. MNRAS, June 2018.
 
-[2]. ***Su, H.-Q.***, Zhang, M.-F., Zhu, H., and Wu, D. (2017c). The revised distance of supernova remnant G15.4+0.1. Research in Astronomy and Astrophysics, 17:109.
+[3]. ***H. Su***, N. Hurley-Walker, C. A. Jackson, N. M. McClure-Griffiths, S. J. Tingay, L. Hindson, P. Hancock, R. B. Wayth, B. M. Gaensler, L. Staveley- Smith, J. Morgan, M. Johnston-Hollitt, E. Lenc, M. E. Bell, J. R. Calling- ham, K. S. Dwarkanath, B.-Q. For, A. D. Kapińska, B. McKinley, A. R. Offringa, P. Procopio, C. Wu, and Q. Zheng. Erratum: Galactic synchrotron emissivity measurements between 250 < l < 355 degrees from the GLEAM survey with the MWA. MNRAS, 472:828–834, Nov. 2017.
 
-[1]. ***Su, H.***, Hurley-Walker, N., Jackson, C. A., McClure-Griffiths, N. M., Tingay, S. J., Hindson, L., Hancock, P., Wayth, R. B., Gaensler, B. M., StaveleySmith, L., Morgan, J., Johnston-Hollitt, M., Lenc, E., Bell, M. E., Callingham, J. R., Dwarkanath, K. S., For, B.-Q., Kapinska, A. D., McKinley, B., Offringa, A. R., Procopio, P., Wu, C., and Zheng, Q. (2017a). Galactic synchrotron emissivity measurements between 250° < l < 355° degrees from the GLEAM survey with the MWA. MNRAS, 465:31633174. 
+[2]. ***H.-Q. Su***, M.-F. Zhang, H. Zhu, and D. Wu. The revised distance of supernova remnant G15.4+0.1. Research in Astronomy and Astrophysics, 17:109, Sept. 2017.
+
+[1]. ***H. Su***, N. Hurley-Walker, C. A. Jackson, N. M. McClure-Griffiths, S. J. Tingay, L. Hindson, P. Hancock, R. B. Wayth, B. M. Gaensler, L. Staveley- Smith, J. Morgan, M. Johnston-Hollitt, E. Lenc, M. E. Bell, J. R. Calling- ham, K. S. Dwarkanath, B.-Q. For, A. D. Kapińska, B. McKinley, A. R. Offringa, P. Procopio, C. Wu, and Q. Zheng. Galactic synchrotron emis- sivity measurements between 250 < l < 355 degrees from the GLEAM survey with the MWA. MNRAS, 465:3163–3174, Mar. 2017.
 
 ### Co-authored Papers
 
-[3]. Hindson, L., Johnston-Hollitt, M., Hurley-Walker, N., Callingham, J. R., ***Su, H.***, Morgan, J., Bell, M., Bernardi, G., Bowman, J. D., Briggs, F., Cappallo, R. J., Deshpande, A. A., Dwarakanath, K. S., For, B.-Q., Gaensler, B. M., Greenhill, L. J., Hancock, P., Hazelton, B. J., Kapinska, A. D., Kaplan, D. L., Lenc, E., Lonsdale, C. J., Mckinley, B., McWhirter, S. R., Mitchell, D. A., Morales, M. F., Morgan, E., Oberoi, D., Offringa, A., Ord, S. M., Procopio, P., Prabu, T., Shankar, N. U., Srivani, K. S., Staveley-Smith, L., Subrahmanyan, R., Tingay, S. J., Wayth, R. B., Webster, R. L., Williams, A., Williams, C. L., Wu, C., and Zheng, Q. (2016). A Large-Scale, LowFrequency Murchison Widefield Array Survey of Galactic HII Regions between 260° < l < 340°. PASA, 33:e020.
+[3]. L. Hindson, M. Johnston-Hollitt, N. Hurley-Walker, J. R. Callingham, ***H. Su***, J. Morgan, M. Bell, G. Bernardi, J. D. Bowman, F. Briggs, R. J. Cappallo, A. A. Deshpande, K. S. Dwarakanath, B.-Q. For, B. M. Gaensler, L. J. Greenhill, P. Hancock, B. J. Hazelton, A. D. Kapińska, D. L. Kaplan, E. Lenc, C. J. Lonsdale, B. Mckinley, S. R. McWhirter, D. A. Mitchell, M. F. Morales, E. Morgan, D. Oberoi, A. Offringa, S. M. Ord, P. Procopio, T. Prabu, N. U. Shankar, K. S. Srivani, L. Staveley-Smith, R. Subrah- manyan, S. J. Tingay, R. B. Wayth, R. L. Webster, A. Williams, C. L. Williams, C. Wu, and Q. Zheng. A Large-Scale, Low-Frequency Murchi- son Widefield Array Survey of Galactic HII Regions between 260 < l < 340. Publ. Astron. Soc. Australia, 33:e020, May 2016.
 
-[2]. Ai, M., Zhu, M., Xiao, L., and ***Su, H.-Q.*** (2013). Properties of the UCHII
-region G25.4NW and its associated molecular cloud. Research in Astronomy and Astrophysics, 13:935-944.
+[2]. M. Ai, M. Zhu, L. Xiao, and ***H.-Q. Su***. Properties of the UCHII region G25.4NW and its associated molecular cloud. Research in Astronomy and Astrophysics, 13:935–944, Aug. 2013.
 
-[1]. Zhu, H., Tian, W. W., Torres, D. F., Pedaletti, G., and ***Su, H. Q.*** (2013). A
-Kinematic Distance Study of the Planetary Nebulae-Supernova remnant-HII
-Region Complex at G35.6-0.5. ApJ, 775:95.
+[1]. H. Zhu, W. W. Tian, D. F. Torres, G. Pedaletti, and ***H. Q. Su***. A Kinematic Distance Study of the Planetary Nebulae-Supernova remnant-H II Region Complex at G35.6-0.5. ApJ, 775:95, Oct. 2013.
 
 # Proceedings
 
