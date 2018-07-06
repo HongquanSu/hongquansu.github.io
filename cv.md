@@ -55,7 +55,7 @@ Peer-reviewed journal papers
 ### First Authored Papers
 [4]. ***Su, H.***, et al., Galactic HII region catalogue in the GLEAM survey. (**in prep.**)
 
-[3]. ***Su, H.***, J. P. Macquart, N. Hurley-Walker, N. M. McClure-Griffiths, C. A. Jackson, S. J. Tingay, W. W. Tian, B. M. Gaensler, B. McKinley, A. D. Kapińska, L. Hindson, P. Hancock, R. B. Wayth, L. Staveley-Smith, J. Morgan, M. Johnston-Hollitt, E. Lenc, M. E. Bell, J. R. Callingham, K. S. Dwarkanath, B.-Q. For, A. R. Offringa, P. Procopio, C. Wu and Q. Zheng. A new measurement of the Galactic synchrotron distribution from 152 HII regions in the full GLEAM survey. (**submitted to MNRAS**)
+[3]. ***Su, H.***, J. P. Macquart, N. Hurley-Walker, N. M. McClure-Griffiths, C. A. Jackson, S. J. Tingay, W. W. Tian, B. M. Gaensler, B. McKinley, A. D. Kapińska, L. Hindson, P. Hancock, R. B. Wayth, L. Staveley-Smith, J. Morgan, M. Johnston-Hollitt, E. Lenc, M. E. Bell, J. R. Callingham, K. S. Dwarkanath, B.-Q. For, A. R. Offringa, P. Procopio, C. Wu and Q. Zheng. A new measurement of the Galactic synchrotron distribution from 152 HII regions in the full GLEAM survey. MNRAS, Accepted on June 2018.
 
 [2]. ***Su, H.-Q.***, Zhang, M.-F., Zhu, H., and Wu, D. (2017). The revised distance of supernova remnant G15.4+0.1. **Research in Astronomy and Astrophysics**, 17:109.
 
