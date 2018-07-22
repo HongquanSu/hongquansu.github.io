@@ -16,11 +16,11 @@ tagline:
 
 ### Co-authored Papers
 
-[3]. L. Hindson, M. Johnston-Hollitt, N. Hurley-Walker, J. R. Callingham, ***H. Su***, J. Morgan, M. Bell, G. Bernardi, J. D. Bowman, F. Briggs, R. J. Cappallo, A. A. Deshpande, K. S. Dwarakanath, B.-Q. For, B. M. Gaensler, L. J. Greenhill, P. Hancock, B. J. Hazelton, A. D. Kapińska, D. L. Kaplan, E. Lenc, C. J. Lonsdale, B. Mckinley, S. R. McWhirter, D. A. Mitchell, M. F. Morales, E. Morgan, D. Oberoi, A. Offringa, S. M. Ord, P. Procopio, T. Prabu, N. U. Shankar, K. S. Srivani, L. Staveley-Smith, R. Subrah- manyan, S. J. Tingay, R. B. Wayth, R. L. Webster, A. Williams, C. L. Williams, C. Wu, and Q. Zheng. A Large-Scale, Low-Frequency Murchi- son Widefield Array Survey of Galactic HII Regions between 260 < l < 340. Publ. Astron. Soc. Australia, 33:e020, May 2016.
+[3]. L. Hindson, M. Johnston-Hollitt, N. Hurley-Walker, J. R. Callingham, ***H. Su***, J. Morgan, M. Bell, G. Bernardi, J. D. Bowman, F. Briggs, R. J. Cappallo, A. A. Deshpande, K. S. Dwarakanath, B.-Q. For, B. M. Gaensler, L. J. Greenhill, P. Hancock, B. J. Hazelton, A. D. Kapińska, D. L. Kaplan, E. Lenc, C. J. Lonsdale, B. Mckinley, S. R. McWhirter, D. A. Mitchell, M. F. Morales, E. Morgan, D. Oberoi, A. Offringa, S. M. Ord, P. Procopio, T. Prabu, N. U. Shankar, K. S. Srivani, L. Staveley-Smith, R. Subrah- manyan, S. J. Tingay, R. B. Wayth, R. L. Webster, A. Williams, C. L. Williams, C. Wu, and Q. Zheng. A Large-Scale, Low-Frequency Murchi- son Widefield Array Survey of Galactic HII Regions between 260 < l < 340. ***Publ. Astron. Soc. Australia***, 33:e020, May 2016.
 
-[2]. H. Zhu, W. W. Tian, D. F. Torres, G. Pedaletti, and ***H. Q. Su***. A Kinematic Distance Study of the Planetary Nebulae-Supernova remnant-H II Region Complex at G35.6-0.5. ApJ, 775:95, Oct. 2013.
+[2]. H. Zhu, W. W. Tian, D. F. Torres, G. Pedaletti, and ***H. Q. Su***. A Kinematic Distance Study of the Planetary Nebulae-Supernova remnant-H II Region Complex at G35.6-0.5. ***ApJ***, 775:95, Oct. 2013.
 
-[1]. M. Ai, M. Zhu, L. Xiao, and ***H.-Q. Su***. Properties of the UCHII region G25.4NW and its associated molecular cloud. Research in Astronomy and Astrophysics, 13:935–944, Aug. 2013.
+[1]. M. Ai, M. Zhu, L. Xiao, and ***H.-Q. Su***. Properties of the UCHII region G25.4NW and its associated molecular cloud. ***Research in Astronomy and Astrophysics***, 13:935–944, Aug. 2013.
 
 # Proceedings
 
