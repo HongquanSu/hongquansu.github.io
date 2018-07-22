@@ -16,12 +16,10 @@ Synchrotron emission pervades the Galactic plane at low radio frequencies, origi
 
 # News
 
-#### 22 July 2018
-### Synchrotron emissivity measurements in the whole GLEAM survey has been finished
-![Plot showing measured emissivities](https://github.com/HongquanSu/hongquansu.github.io/blob/master/img/emi76_on_mw_img_small.png "Measured emissivities")
+#### 22 July 2018: Synchrotron emissivity measurements in the whole GLEAM survey has been finished
+![Plot showing measured emissivities]({{ site.baseurl }}/img/emi76_on_mw_img_small.png "Measured emissivities")
 
-#### 10 November 2018
-### The initial measurements have been reported: 
+#### 10 November 2018: The initial measurements have been reported: 
 Galactic synchrotron emissivity measurements between 250° \< l \< 355° from the GLEAM survey with the MWA
 ![Plot showing HII regions with absorption](https://github.com/HongquanSu/hongquansu.github.io/blob/master/img/emi76_on_mw_img_small.png "Measured emissivities")
 
