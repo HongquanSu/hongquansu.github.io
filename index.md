@@ -22,8 +22,7 @@ Synchrotron emission pervades the Galactic plane at low radio frequencies, origi
 ---
 
 #### The initial measurements have been reported [10 November 2018] 
-Galactic synchrotron emissivity measurements between 250° \< l \< 355° from the GLEAM survey with the MWA
-![Plot showing HII regions with absorption]({{ site.baseurl }}/img/emi76_on_mw_img_small.png "HII region absorption features")
+![Plot showing HII regions with absorption]({{ site.baseurl }}/img/GP_img_three_small.png "HII region absorption features")
 
 ---
 
