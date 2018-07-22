@@ -19,7 +19,7 @@ Synchrotron emission pervades the Galactic plane at low radio frequencies, origi
 ### Synchrotron emissivity measurements in the whole GLEAM survey has been finished
 [see more](_posts/pub_syn2.md)
 
-<img style="float: left;" src="https://github.com/HongquanSu/hongquansu.github.io/blob/master/img/GP_img_three_small.png">
+<img style="float: left;" src="https://github.com/HongquanSu/hongquansu.github.io/blob/master/img/GP_img_three_large.png">
 ### The initial measurements have been reported:
 Galactic synchrotron emissivity measurements between 250° \< l \< 355° from the GLEAM survey with the MWA
 
