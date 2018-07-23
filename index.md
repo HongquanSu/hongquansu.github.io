@@ -21,7 +21,7 @@ Synchrotron emission pervades the Galactic plane at low radio frequencies, origi
 
 ---
 
-#### The initial measurements have been reported [10 November 2018] 
+#### The initial measurements have been reported [10 November 2017] 
 ![Plot showing HII regions with absorption]({{ site.baseurl }}/img/GP_img_three_small.png "HII region absorption features")
 
 ---
