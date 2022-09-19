@@ -4,7 +4,7 @@ title: "Contact me"
 tagline: contact
 ---
 
-Email : hongquansu.astro@gmail.com
+Email : Dr.Hongquan.Su@gmail.com
 
 or through :
 
